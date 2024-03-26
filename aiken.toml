@@ -1,0 +1,14 @@
+name = "ngocht-ibl/gift-card"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'ngocht-ibl/gift-card'"
+
+[repository]
+user = "ngocht-ibl"
+project = "gift-card"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.7.0"
+source = "github"
