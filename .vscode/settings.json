@@ -16,5 +16,8 @@
   },
   "css.customData": [
     ".vscode/tailwind.json"
-  ]
+  ],
+  "[aiken]": {
+    "editor.defaultFormatter": "txpipe.aiken"
+  }
 }
